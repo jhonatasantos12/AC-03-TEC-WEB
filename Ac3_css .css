@@ -1,0 +1,18 @@
+h1{
+    color: red;
+    text-decoration: underline;
+    font-family: Arial;
+    font-style: italic;
+    font-style: center;
+}
+body{
+    font-family: Arial;
+    font-weight: normal;
+}
+
+div#cor{
+    color: red;
+}
+div#color{
+    color: greenyellow;
+}
